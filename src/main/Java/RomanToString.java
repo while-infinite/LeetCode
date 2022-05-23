@@ -6,7 +6,6 @@ import java.util.Map;
 public class RomanToString {
     public static void main(String[] args) throws Exception {
 
-
         int result = romanToInt("MCMXCIV");
         System.out.println(result);
 
